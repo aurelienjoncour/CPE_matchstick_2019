@@ -1,7 +1,7 @@
 # Matchstick_2019
 
 - **Usage:** ./matchstick [nb_line] [max_nb_matches]
-- **Mark:** 100%
+- **Mark:** 98%
 - **Bonus:** matchstick made with ncurses library
 
 # Subject
